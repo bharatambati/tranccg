@@ -69,5 +69,6 @@ Methods in Natural Language Processing (EMNLP), pages 740–750, Doha, Qatar, Oc
 
 [4] David Weiss, Chris Alberti, Michael Collins, and Slav Petrov. 2015. Structured training for neural network transition-based parsing. In Proceedings of the 53rd Annual Meeting of the Association for Computational Linguistics and the 7th International Joint Conference on Natural Language Processing (Volume 1: Long Papers), pages 323–333, Beijing, China, July. Association for Computational Linguistics
 
-[5] 
-[6]# tranccg
+[5] Bharat Ram Ambati, Tejaswini Deoskar and Mark Steedman. (2016). Shift Reduce CCG Parsing using Neural Network Models. In Proceedings of the 2015 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, San Diego, California, June.
+
+[6] Bharat Ram Ambati. (2016). Transition-based Combinatory Categorial Grammar parsing for English and Hindi. PhD thesis, University of Edinburgh, UK.
